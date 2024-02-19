@@ -1,0 +1,14 @@
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+Z:\CADBATCH01\CADBATCH01\backend\csharp\bin\Debug\net7.0\csharp.exe
+Z:\CADBATCH01\CADBATCH01\backend\csharp\bin\Debug\net7.0\csharp.deps.json
+Z:\CADBATCH01\CADBATCH01\backend\csharp\bin\Debug\net7.0\csharp.runtimeconfig.json
+Z:\CADBATCH01\CADBATCH01\backend\csharp\bin\Debug\net7.0\csharp.dll
+Z:\CADBATCH01\CADBATCH01\backend\csharp\bin\Debug\net7.0\csharp.pdb
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.dll
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\refint\csharp.dll
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.pdb
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+Z:\CADBATCH01\CADBATCH01\backend\csharp\obj\Debug\net7.0\ref\csharp.dll
