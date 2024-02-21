@@ -1,0 +1,14 @@
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\bin\Debug\net7.0\inherit.exe
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\bin\Debug\net7.0\inherit.deps.json
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\bin\Debug\net7.0\inherit.runtimeconfig.json
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\bin\Debug\net7.0\inherit.dll
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\bin\Debug\net7.0\inherit.pdb
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.AssemblyInfoInputs.cache
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.AssemblyInfo.cs
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.csproj.CoreCompileInputs.cache
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.dll
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\refint\inherit.dll
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.pdb
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\inherit.genruntimeconfig.cache
+Z:\CADBATCH01\CADBATCH01\backend\csharp\inherit\obj\Debug\net7.0\ref\inherit.dll
